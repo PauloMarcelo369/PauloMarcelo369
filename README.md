@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>E ai meus grandes, meu nome é Paulo!</h1>
 
-<!--
-**PauloMarcelo369/PauloMarcelo369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<!--   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] -->
+<a href="https://www.instagram.com/paulomarcelo_.20" style="display: inline-block;" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
-Here are some ideas to get you started:
+<a href="" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+
+![PauloMarcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMarcelo369&show_icons=true&theme=dark)
+
+
+
+  
+  
+</div>
